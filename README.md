@@ -1,7 +1,4 @@
-Basic Auth Example
 This is a simple web application that demonstrates how to use context + React hooks for state management. It also uses other features of React, such as component-based architecture and event handling.
-
-Deploy with Vercel
 
 Features
 Framework: React
@@ -34,3 +31,4 @@ Copy code
 npm start
 Demo
 You can see a live demo of this application at https://basic-auth-example.vercel.app/.
+
